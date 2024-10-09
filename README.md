@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Curiosities about me:<br><br>📚 I'm currently learning SwiftUI<br>🎸 I play guitar and some electronic synthesisers in my free time<br>🧘 I meditate<br>😝 I'm a polyglot</p>
+<p align="left"><br>📚 I'm currently learning SwiftUI<br>🎸 I play guitar and some electronic synthesisers in my free time<br>🧘 I meditate<br>😝 I'm a polyglot</p>
 
 ###
 
