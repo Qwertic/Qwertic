@@ -1,13 +1,13 @@
-# Hi, I'm Qwertic 👋
+# Qwertic
 
-**Fullstack Developer** | Rails, TypeScript, AI
+**fullstack developer**  
+rails · typescript · ai
 
-Multipotentialite, polyglot, and creative. 
+multipotentialite · polyglot · creative  
+neurodivergent · conscious · curious  
 
-Neurodivergent, conscious, and open-minded—always curious, always learning. 
+music lover & instrumentalist  
 
-I enjoy music, play instruments, and am currently exploring electronics and hardware.
+currently learning electronics & hardware
 
----
-
-> Unique perspectives fuel my code and creativity.
+> open mind, open doors
