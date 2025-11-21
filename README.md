@@ -8,6 +8,6 @@ neurodivergent · conscious · curious
 
 music lover & instrumentalist  
 
-currently learning electronics & hardware
+currently experimenting sound and visual intersections
 
 > open mind, open doors
