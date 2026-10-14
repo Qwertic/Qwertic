@@ -9,6 +9,6 @@
 
 Open to AI lead and senior AI engineering roles, remote from Italy or hybrid from Milan, and to freelance AI work.
 
-**Current profile and contact: [qwertic.xyz](https://qwertic.xyz).** Also on [LinkedIn](https://www.linkedin.com/in/regi-voda) and [GitHub](https://github.com/Qwertic).
+**Current profile and contact: [qwertic.xyz](https://qwertic.xyz).** Also on [LinkedIn](https://www.linkedin.com/in/regi-voda).
 
 Multipotentialite, polyglot, curious. Eight years in professional kitchens before software.
